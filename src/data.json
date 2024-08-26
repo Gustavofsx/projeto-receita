@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": ["farinha", "cacau", "açúcar", "ovos"],
+      "modoPreparo": "Misture os ingredientes e asse por 30 minutos."
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão ao Alho e Óleo",
+      "ingredientes": ["macarrão", "alho", "azeite", "sal"],
+      "modoPreparo": "Cozinhe o macarrão e refogue com alho e azeite."
+    }
+  ]
+  
